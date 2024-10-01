@@ -23,15 +23,6 @@ This project is a **Tkinter-based GUI application** designed for real-time speec
 5. **User Login**:
    - Simulates a login process that unlocks the translation features after successful authentication.
 
-## Libraries Used
-- **Tkinter & ttkbootstrap**: For creating the user interface and adding themes.
-- **speech_recognition**: To capture and recognize speech from the microphone or audio files.
-- **googletrans**: For translating text into regional languages.
-- **gTTS**: For converting translated text into speech.
-- **pygame**: To play back the generated speech.
-- **moviepy**: To extract audio from video files and replace the original audio with translated audio.
-- **pytube**: For handling YouTube video downloads (future feature).
-- **pydub**: For additional audio file handling.
 
 ## How it Works
 1. **Speech Translation**:
